@@ -1,2 +1,2 @@
 # Dependency_Injection
-C#, .Net Core, In Memory Database, Dependency Injection (constructor injection)
+C#, .Net Core, In Memory Database, Dependency Injection (constructor injection), Generics
